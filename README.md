@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Ayaan, a beginner programmer from India.  
+I'm Ayaan Mansuri, a beginner programmer from India.  
 I enjoy learning new things about Cybersecurity and AI/ML.  
 Currently, I am learning CSS,JavaScript and Java.
 
